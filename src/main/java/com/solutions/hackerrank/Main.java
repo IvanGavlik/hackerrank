@@ -1,4 +1,4 @@
-package com.solutions;
+package com.solutions.hackerrank;
 
 public class Main {
     public static void main(String[] args) {
