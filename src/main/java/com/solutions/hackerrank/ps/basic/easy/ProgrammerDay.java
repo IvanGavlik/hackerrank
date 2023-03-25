@@ -74,32 +74,25 @@ import java.security.InvalidParameterException;
  *
  */
 public class ProgrammerDay {
-    public static void main(String[] args) {
-        System.out.println(ProgrammerDay.dayOfProgrammer(1800));
-    }
+
+    private static final String TRANSITION_YEAR_PROGRAMMER_DAY = "26.09.1918";
+    private static final String LEAP_YEAR_PROGRAMMER_DAY = "12.09.";
+    private static final String PROGRAMMER_DAY = "13.09.";
+
 
     public static String dayOfProgrammer(int year) throws InvalidParameterException {
         if (year < 1700 || year > 2700) {
             throw new InvalidParameterException("year must be in range from 1700 to 2700");
         }
-        if (isJulianCalendar(year)) {
-            if (isJulianCalendarLeap(year)) {
-                return "12.09." + year;
-            } else {
-                return "13.09." + year;
-            }
-        }
-        if (isGregorianCalendar(year)) {
-            if(isGregorianCalendarLeap(year)) {
-                return "12.09." + year;
-            } else {
-                return "13.09." + year;
-            }
-        }
         if (isTransitionYear(year)) {
-            return "26.09.1918";
+            return TRANSITION_YEAR_PROGRAMMER_DAY;
         }
-        return null; // should never happen
+        return isLeapYear(year) ? LEAP_YEAR_PROGRAMMER_DAY + year : PROGRAMMER_DAY + year;
+    }
+
+    private static boolean isLeapYear(int year) {
+        return (isJulianCalendar(year) && isJulianCalendarLeap(year) ) ||
+                (isGregorianCalendar(year) && isGregorianCalendarLeap(year));
     }
 
     private static boolean isJulianCalendar(int year) {
