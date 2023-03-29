@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b5d3bdc-d8d0-4079-af4e-efab519a07ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/medium/MagicSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solutions/hackerrank/ps/basic/medium/MagicSquareTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/easy/ProgrammerDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/easy/ProgrammerDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/medium/MagicSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/medium/MagicSquare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +27,6 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2NTQjSQ97ArPQlGrywFh4nuHF1J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,13 +48,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.ProgrammerDayTest">
-    <configuration name="ProgrammerDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.ProgrammerDay" />
+  <component name="RunManager" selected="JUnit.MagicSquareTest.testCost0">
+    <configuration name="MagicSquare (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.medium.MagicSquare" />
       <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.easy.*" />
+          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,32 +62,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgrammerDayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MagicSquare (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.medium.MagicSquare" />
       <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.easy.*" />
+          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.solutions.hackerrank.ps.basic.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.ProgrammerDayTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgrammerDayTest.gregorianNotLeap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MagicSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.medium.MagicSquare" />
       <module name="hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.easy.*" />
+          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.solutions.hackerrank.ps.basic.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.ProgrammerDayTest" />
-      <option name="METHOD_NAME" value="gregorianNotLeap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicSquareTest.testCost0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solutions.hackerrank.ps.basic.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.medium.MagicSquareTest" />
+      <option name="METHOD_NAME" value="testCost0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicSquareTest.testCost1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solutions.hackerrank.ps.basic.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.medium.MagicSquareTest" />
+      <option name="METHOD_NAME" value="testCost1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,9 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProgrammerDayTest" />
-        <item itemvalue="JUnit.ProgrammerDayTest.gregorianNotLeap" />
-        <item itemvalue="Application.ProgrammerDay" />
+        <item itemvalue="JUnit.MagicSquareTest.testCost0" />
+        <item itemvalue="JUnit.MagicSquareTest.testCost1" />
+        <item itemvalue="Application.MagicSquare" />
+        <item itemvalue="Application.MagicSquare (2)" />
+        <item itemvalue="Application.MagicSquare (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -116,11 +139,51 @@
       <option name="presentableId" value="Default" />
       <updated>1679685727876</updated>
       <workItem from="1679685729662" duration="5179000" />
-      <workItem from="1679755218173" duration="689000" />
+      <workItem from="1679755218173" duration="2183000" />
+      <workItem from="1679854227153" duration="3518000" />
+      <workItem from="1679898106180" duration="4168000" />
+      <workItem from="1680042112782" duration="70000" />
+      <workItem from="1680098098434" duration="5524000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="3a695201-e94b-4055-bccd-bf1a5cd9a02a" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="3a695201-e94b-4055-bccd-bf1a5cd9a02a">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

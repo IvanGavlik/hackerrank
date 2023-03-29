@@ -1,6 +1,5 @@
 package com.solutions.hackerrank.ps.basic.easy;
 
-import java.nio.file.InvalidPathException;
 import java.security.InvalidParameterException;
 
 /**
