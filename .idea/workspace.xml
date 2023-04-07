@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b5d3bdc-d8d0-4079-af4e-efab519a07ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/easy/SaveThePrisoner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/medium/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solutions/hackerrank/ps/basic/easy/SaveThePrisonerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/easy/SaveThePrisoner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/easy/SaveThePrisoner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,79 +33,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/ivan/Documents/projects/hackerrank/src/main/java/com/solutions/hackerrank/ps/basic/medium",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ivan/Documents/projects/hackerrank/src/main/java/com/solutions/hackerrank/ps/basic/medium&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SaveThePrisoner">
-    <configuration name="SaveThePrisoner (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.SaveThePrisoner" />
-      <module name="hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SaveThePrisoner (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.SaveThePrisoner" />
-      <module name="hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SaveThePrisoner (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.SaveThePrisoner" />
-      <module name="hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SaveThePrisoner (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.SaveThePrisoner" />
-      <module name="hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SaveThePrisonerTest">
     <configuration name="SaveThePrisoner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.SaveThePrisoner" />
       <module name="hackerrank" />
@@ -119,13 +67,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SaveThePrisonerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solutions.hackerrank.ps.basic.easy" />
+      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.SaveThePrisonerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveThePrisonerTest.noCircle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solutions.hackerrank.ps.basic.easy" />
+      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.SaveThePrisonerTest" />
+      <option name="METHOD_NAME" value="noCircle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveThePrisonerTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solutions.hackerrank.ps.basic.easy" />
+      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.SaveThePrisonerTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveThePrisonerTest.testNSmallerM" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solutions.hackerrank.ps.basic.easy" />
+      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.easy.SaveThePrisonerTest" />
+      <option name="METHOD_NAME" value="testNSmallerM" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SaveThePrisonerTest" />
         <item itemvalue="Application.SaveThePrisoner" />
-        <item itemvalue="Application.SaveThePrisoner (5)" />
-        <item itemvalue="Application.SaveThePrisoner (4)" />
-        <item itemvalue="Application.SaveThePrisoner (3)" />
-        <item itemvalue="Application.SaveThePrisoner (2)" />
+        <item itemvalue="JUnit.SaveThePrisonerTest.noCircle" />
+        <item itemvalue="JUnit.SaveThePrisonerTest.testNSmallerM" />
+        <item itemvalue="JUnit.SaveThePrisonerTest.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +154,11 @@
       <workItem from="1679898106180" duration="4168000" />
       <workItem from="1680042112782" duration="70000" />
       <workItem from="1680098098434" duration="5744000" />
-      <workItem from="1680167204497" duration="4484000" />
+      <workItem from="1680167204497" duration="4594000" />
+      <workItem from="1680551656086" duration="2156000" />
+      <workItem from="1680553830011" duration="2482000" />
+      <workItem from="1680809553980" duration="8870000" />
+      <workItem from="1680864149617" duration="4648000" />
     </task>
     <servers />
   </component>
@@ -197,11 +212,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/easy/SaveThePrisoner.java</url>
-          <line>103</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
