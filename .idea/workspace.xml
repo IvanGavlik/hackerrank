@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b5d3bdc-d8d0-4079-af4e-efab519a07ac" name="Changes" comment="ClimbingLeaderboard">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/medium/Encryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/solutions/hackerrank/ps/basic/medium/EncryptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/medium/ZigZagSequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/temp/Temp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,20 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/medium" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EncryptionTest">
+  <component name="RunManager" selected="Application.ZigZagSequence">
+    <configuration name="ZigZagSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.medium.ZigZagSequence" />
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EncryptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hackerrank" />
       <extension name="coverage">
@@ -123,29 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncryptionTest.basic4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.solutions.hackerrank.ps.basic.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.solutions.hackerrank.ps.basic.medium" />
-      <option name="MAIN_CLASS_NAME" value="com.solutions.hackerrank.ps.basic.medium.EncryptionTest" />
-      <option name="METHOD_NAME" value="basic4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZigZagSequence" />
         <item itemvalue="JUnit.EncryptionTest" />
         <item itemvalue="JUnit.EncryptionTest.basic3" />
         <item itemvalue="JUnit.EncryptionTest.basic1" />
         <item itemvalue="JUnit.EncryptionTest.basic2" />
-        <item itemvalue="JUnit.EncryptionTest.basic4" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +187,8 @@
       <workItem from="1683293847697" duration="173000" />
       <workItem from="1683294073545" duration="48000" />
       <workItem from="1683666069058" duration="16000" />
-      <workItem from="1683748542771" duration="362000" />
+      <workItem from="1683748542771" duration="1991000" />
+      <workItem from="1683840273871" duration="2116000" />
     </task>
     <servers />
   </component>
@@ -287,6 +282,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/medium/Encryption.java</url>
           <line>49</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/medium/ZigZagSequence.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/solutions/hackerrank/ps/basic/medium/ZigZagSequence.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
